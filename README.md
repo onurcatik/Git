@@ -9,3 +9,4 @@ This repository contains a collection of Markdown files serving as a cheatsheet 
 3. [Working with Remote Repositories](02_remote-repositories.md)
 4. [Branching &amp; Merging Guide](03_branching-merging.md)
 5. [Setting Up GitHub Pages](04_pages.md)
+6. [Deploy mdBook on GitHub](05_deploy-mdBook-GitHub.md)
